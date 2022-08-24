@@ -6,6 +6,7 @@ public class StopLight {
         System.out.print("Enter A Color Code: ");
         int code = in.nextInt();
 
+
         switch (code) {
             case 1:
                 System.out.println("Next Traffic Light Is Green");
