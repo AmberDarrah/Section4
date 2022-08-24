@@ -4,6 +4,7 @@ public class Fahrenheit_Celsius
 {
     public static void main(String[] args)
     {
+
         double celsius, fahrenheit;
         Scanner s = new Scanner(System.in);
         System.out.println("Enter A Temperature In Fahrenheit: ");
